@@ -1,0 +1,39 @@
+.main{
+    margin-top: 5%;
+}
+
+body{
+    background-color: red;
+}
+.fix{
+    border:2px solid #fca311;
+    border-radius: 5px;
+    background-color:#fca311 ;
+    padding: 10px;
+}
+h1,h4{
+    color:#e5e5e5;
+}
+#name{
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: #fca311;
+    text-decoration: underline;
+}
+#heading {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+#pricetable {
+    position: relative;
+    top: 100px;
+}
+.form-group {
+    position: relative;
+    top: 50px;
+}
+#button {
+    position: absolute;
+    top: 150px;
+    left: 180px;
+    width: fit-content;
+}
